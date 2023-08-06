@@ -181,6 +181,7 @@ section {
     height: 30px;
     color: #fff;
     transition: .3s ease;
+    margin-right: 20rem;
 }
 
 .adv-but:hover{
