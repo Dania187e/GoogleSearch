@@ -181,12 +181,15 @@ section {
     height: 30px;
     color: #fff;
     transition: .3s ease;
-    margin-right: 20rem;
+    margin-right: 0.15rem;
 }
 
 .adv-but:hover{
     background-color: #82a6e0;
     
+}
+.advance{
+    color: red;
 }
 
 
